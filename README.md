@@ -13,32 +13,10 @@ A Mathematical Engineering student at Yıldız Technical University, bridging th
 
 ### 🛠️ Tech Stack & Tools
 
+<p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-
----
-
-### 📊 Highlighted Projects
-
-#### 📈 Market Data ETL Pipeline
-*An enterprise-grade financial data workflow.*
-- Extracted real-time and historical market data utilizing `yfinance`.
-- Engineered robust data transformation models and loaded structured insights into a **PostgreSQL** database.
-- Fully containerized and orchestrated via **Docker** environments.
-
-#### ⚡ Systems & Web Engineering
-- **[IAI_Project](https://github.com/erenhasankasap/IAI_Project):** Diving deep into systems architecture and socket programming using C.
-- **[personal_website](https://github.com/erenhasankasap/personal_website):** A highly optimized, production-grade personal portfolio built to highlight technical milestones.
-
----
-
-### 🚀 Currently Exploring & Refining
-- Advanced Numerical Analysis & Linear Algebra for financial derivatives.
-- High-frequency data ingestion and algorithmic optimization.
-- Financial technologies and quantitative data pipelines.
+</p>
 
 ---
 
